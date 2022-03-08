@@ -1,5 +1,11 @@
 Hi
 Test reset option
 Checking 2 commit
+<<<<<<< HEAD
 
 chekcing mergeing 
+=======
+Hji
+Thu
+Docker in
+>>>>>>> 1bc65cc19ef2b5341c63b2e18bc20eccbd960f0d
